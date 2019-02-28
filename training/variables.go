@@ -16,4 +16,7 @@ func main()  {
 
   var d = true
   fmt.Println(d)
+
+  f := "short"
+  fmt.Println(f)
 }
